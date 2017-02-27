@@ -1,1 +1,2 @@
 # SampleRuby
+Adding to GIT
