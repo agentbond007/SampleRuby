@@ -1,5 +1,8 @@
 # SampleRuby
 Adding to GIT
 Test
+<<<<<<< HEAD
 modifications to the branch
+=======
 TEST #2
+>>>>>>> master
